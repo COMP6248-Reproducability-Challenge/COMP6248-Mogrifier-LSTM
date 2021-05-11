@@ -1,0 +1,2 @@
+# COMP6248-Mogrifier-LSTM
+COMP6248_Reproducability_Challenge
